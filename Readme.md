@@ -1,4 +1,4 @@
-This is a series of projects where I solve AI gym environments by building RL algorithms from scratch using Python, Pytorch and Tensorflow
+This is a series of projects where I solve RL environments by building RL algorithms from scratch using Python, Pytorch and Tensorflow
 
 # Exercise
 Compare the SARSA and the Q-learning algorithms using the GridWorld Cliff walking environment
