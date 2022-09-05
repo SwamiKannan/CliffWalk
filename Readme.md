@@ -1,7 +1,11 @@
+This is a series of projects where I solve AI gym environments by building RL algorithms from scratch using Python, Pytorch and Tensorflow
+
+Exercise
+Compare the SARSA and the Q-learning algorithms using the GridWorld Cliff walking environment
 # CliffWalk
 ![Cliff Walking representation](cliff_walking.png "Cliff Walking")
 ## Environment:
-This is a simple implementation of the Gridworld Cliff  reinforcement learning task.<br>  Adapted from Example 6.6 (page 106) from Reinforcement Learning: An Introduction by Sutton and Barto: http://incompleteideas.net/book/bookdraft2018jan1.pdf
+This is a simple implementation of the Gridworld Cliff reinforcement learning task.<br>  Adapted from Example 6.6 (page 106) from Reinforcement Learning: An Introduction by Sutton and Barto: http://incompleteideas.net/book/bookdraft2018jan1.pdf
 <br>With inspiration from: https://github.com/dennybritz/reinforcement-learning/blob/master/lib/envs/cliff_walking.py<br>
 The board is a 4x12 matrix, with (using NumPy matrix indexing):<br>
 &nbsp;&nbsp;&nbsp;o	[3, 0] as the start at bottom-left<br>
